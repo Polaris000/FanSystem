@@ -1,4 +1,4 @@
-## MUP_Design_Assignment
+## Fan Control System
 
 Our submission for the Design Project component of the **Microprocessors and Interfacing** course at BITS Pilani.
   
